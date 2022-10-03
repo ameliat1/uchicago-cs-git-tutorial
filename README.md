@@ -1,1 +1,2 @@
-ameliat1
+ameliat
+UChicago CS Git Tutorial 
